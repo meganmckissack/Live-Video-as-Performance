@@ -3,7 +3,7 @@
 ### Software
 [VDMX](http://vidvox.net/)
 
-[MPEG Streamclip] (http://www.squared5.com/)
+[MPEG Streamclip](http://www.squared5.com/)
 
 
 
