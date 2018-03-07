@@ -17,12 +17,17 @@ http://www.kimchiandchips.com/
 [MPEG Streamclip](http://www.squared5.com/)
 
 [ISF - Interactive Shader Format](https://www.interactiveshaderformat.com/)
+
+[Syphon](http://syphon.v002.info/)
+
 ***
 
 ### [Project files](https://www.dropbox.com/sh/gi806evogt8fqt5/AAANBDH825r-ZFEzOYYCSNasa?dl=0)
 ***
 
 ### Links
+[Vjing - WTF is it?](http://www.davidlubl.in/blog/2014/vjing-wtf-is-it)
+
 [The Art of the VJ: The Origin and History of a Complete Art](https://www.perennialmusicandarts.com/single-post/2018/03/01/The-Art-of-the-VJ-The-Origin-of-a-Complete-Art)
 
 [Expanded Cinema](http://www.vasulka.org/Kitchen/PDF_ExpandedCinema/book.pdf)
